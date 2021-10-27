@@ -1,3 +1,3 @@
 # SQL-Server-Basico-Ao-Avancado
 
-Códigos de aprendizado do curso SQL Server 2017
+Códigos de aprendizado enquanto estudo SQL Server, o BD não está presente no repositório.
